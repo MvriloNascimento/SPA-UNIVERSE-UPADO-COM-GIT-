@@ -1,7 +1,7 @@
 
 # DESAFIO SPA UNIVERSE 👨‍🚀🚀
 
-Desafio referente ao stage 06 da @rocketseat.
+Desafio referente ao stage 06 da [@rocketseat](https://www.github.com/rocketseat)
 
 
 
